@@ -1,0 +1,1 @@
+To explain the classic synchronization problem (deadlock), the Dining Philosopher's Problem which is used to evaluate situations where there is need of allocating multiple resources to multiple processes.[Ref. 1](https://www.studytonight.com/operating-system/dining-philosophers-problem)

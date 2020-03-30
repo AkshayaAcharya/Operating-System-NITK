@@ -1,5 +1,5 @@
 Banker’s algorithm
-------------------Pretest------------------------
+------------------Pretest part------------------------
 Banker’s algorithm is a Deadlock______
 Avoidance and prevention algorithm
 Detection algorithm

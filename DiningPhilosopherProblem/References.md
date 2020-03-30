@@ -1,1 +1,2 @@
 1. https://www.studytonight.com/operating-system/dining-philosophers-problem
+2. http://www.cs.rpi.edu/academics/courses/fall04/os/c10/

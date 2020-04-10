@@ -32,3 +32,5 @@ To proceed, operating system won't understand what action to take. Only way is t
   * **Deadlock Avoidance and prevention**: Do not let the system go in deadlock. [Popular algo is Banker's Algo.]
   * **Detection and Recovery**: Let deadlock occur, then do preemption or abort the processes to handle it if occurred. [Doctor's Algorithm]
   * **Deadlock Ignorance**: If deadlock is very rare, then let it happen and reboot the system if it occurs. This is the approach used in today's operating systems like Windows and Linux. [Ostrich Algorithm].
+
+**Dining Philosopher's Problem**
